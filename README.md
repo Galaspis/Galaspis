@@ -1,6 +1,8 @@
 # Hi, I'm Gal 
 
-Digital Marketing & Marketing Automation professional with 15+ years of experience in websites, SEO, PPC, digital operations, and marketing technology. Experienced with Salesforce Marketing Cloud, customer journeys, automation workflows, and lead management. Practical, tech-oriented, and execution-focused with a strong ability to turn business needs into working solutions.
+I’m a hands-on digital marketer who got deeply excited about AI and started building with it.
+After 15+ years in marketing, websites, SEO, PPC, automation, and marketing technology, I began using AI tools to turn ideas into real working projects. I work daily with Claude Code through the CLI, experimenting with AI-assisted coding, automations, agents, and small tools that solve practical problems.
+This GitHub includes only some of the projects I’ve built while exploring how AI can help create faster workflows, smarter marketing tools, and useful products ,from SFMC-related utilities to AI agents, web apps, and productivity experiments.
 
 ## What I build
 
